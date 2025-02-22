@@ -14,7 +14,7 @@ This project was part of a hands-on learning experience where I successfully cre
 
 📜 Certificate  
 Here’s my certificate for completing this project:  
-📎 [AWS-VPC-Certificate.pdf][Create a Virtual Private Cloud (VPC) using AWS.pdf](https://github.com/user-attachments/files/18919114/Create.a.Virtual.Private.Cloud.VPC.using.AWS.pdf)
+📎 [Create a Virtual Private Cloud (VPC) using AWS.pdf](https://github.com/user-attachments/files/18919114/Create.a.Virtual.Private.Cloud.VPC.using.AWS.pdf)
   
 
 🛠 Technologies Used  
